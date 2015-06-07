@@ -100,6 +100,8 @@ on the English name.
      - Siswati
    * - Tamil
      - தமிழ்
+   * - Thai
+     - ไทย
    * - Tsonga
      - Xitsonga
    * - Tswana
